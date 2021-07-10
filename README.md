@@ -32,8 +32,8 @@
   No tests are available at this time.
   
   ## Links
-  GitHub Repository: https://github.com/scochran31/shawns-notes
-  Deployed app on Heroku: https://safe-bastion-32691.herokuapp.com/
+  * GitHub Repository: https://github.com/scochran31/shawns-notes
+  * Deployed app on Heroku: https://safe-bastion-32691.herokuapp.com/
 
   ## Questions
   Contact me with any additonal questions through these channels:
